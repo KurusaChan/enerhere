@@ -1,1 +1,1 @@
-# Controllers for site [enerhere.com](https://app.enerhere.com)
+# Controllers for the site [enerhere.com](https://app.enerhere.com)
